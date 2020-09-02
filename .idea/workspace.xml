@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a8130d9-4970-4912-aec1-d7144152d4e5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gYB8iX1N55KWxUPDOJ1BMsFstB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tracer.conf" />
+      <recent name="tracer.model" />
+      <recent name="tracer.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Desktop\jica_review\data\hop" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tracer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tracer.Tracer" />
+      <module name="jica-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tracer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tracer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a8130d9-4970-4912-aec1-d7144152d4e5" name="Default Changelist" comment="" />
+      <created>1598281487647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598281487647</updated>
+      <workItem from="1598281491173" duration="13025000" />
+      <workItem from="1598429376911" duration="26999000" />
+      <workItem from="1599052542366" duration="666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="energy" language="JAVA" />
+        <watch expression="energy[4978]" language="JAVA" />
+        <watch expression="dentaE[1486]" language="JAVA" />
+        <watch expression="distanceToSink[1486]" language="JAVA" />
+        <watch expression="ccs_list[160]" language="JAVA" />
+        <watch expression="ccs_list.get(145)" language="JAVA" />
+        <watch expression="ccs_list.get(146)" language="JAVA" />
+        <watch expression="ccs_list.get(147)" language="JAVA" />
+        <watch expression="dentaE[0]" language="JAVA" />
+        <watch expression="dentaE[10]" language="JAVA" />
+        <watch expression="i" language="JAVA" />
+        <watch expression="ccp[i]" language="JAVA" />
+        <watch expression="ccp" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
